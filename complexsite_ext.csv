@@ -1,0 +1,79 @@
+Location,Result,Date,Number,Lat,Lon,Color,Total,Home,Subhome
+site1,6,2018-01,0,12.5,10,#ad1f1f,96,Day Site,site1
+site1,2,2018-02,2,12.5,10,#ad1f1f,80,Day Site,site1
+site1,3,2018-03,4,12.5,10,#ad1f1f,72,Day Site,site1
+site1,3,2018-04,6,12.5,10,#ad1f1f,90,Day Site,site1
+site1,4,2018-05,8,12.5,10,#ad1f1f,100,Day Site,site1
+site1,5,2018-06,10,12.5,10,#ad1f1f,90,Day Site,site1
+site2,5,2018-01,0,11.5,20,#ad1f1f,92,Day Site,site2
+site2,5,2018-02,2,11.5,20,#ad1f1f,102,Day Site,site2
+site2,6,2018-03,4,11.5,20,#ad1f1f,80,Day Site,site2
+site2,7,2018-04,6,11.5,20,#ad1f1f,72,Day Site,site2
+site2,7,2018-05,8,11.5,20,#ad1f1f,100,Day Site,site2
+site2,9,2018-06,10,11.5,20,#ad1f1f,98,Day Site,site2
+site3,2,2018-01,0,30,22.5,#f04d4d,120,Day Site,site3
+site3,2,2018-02,2,30,22.5,#f04d4d,80,Day Site,site3
+site3,1,2018-03,4,30,22.5,#f04d4d,60,Day Site,site3
+site3,3,2018-04,6,30,22.5,#f04d4d,80,Day Site,site3
+site3,4,2018-05,8,30,22.5,#f04d4d,120,Day Site,site3
+site3,5,2018-06,10,30,22.5,#f04d4d,112,Day Site,site3
+site4,3,2018-01,0,40,22.5,#cf4d34,110,Night Shift Site,site4
+site4,3,2018-02,2,40,22.5,#cf4d34,87,Night Shift Site,site4
+site4,4,2018-03,4,40,22.5,#cf4d34,100,Night Shift Site,site4
+site4,4,2018-04,6,40,22.5,#cf4d34,90,Night Shift Site,site4
+site4,2,2018-05,8,40,22.5,#cf4d34,92,Night Shift Site,site4
+site4,2,2018-06,10,40,22.5,#cf4d34,102,Night Shift Site,site4
+facility1,3,2018-01,0,29,4,#362687,80,Day Facility,facility1
+facility1,3,2018-02,2,29,4,#362687,72,Day Facility,facility1
+facility1,2,2018-03,4,29,4,#362687,100,Day Facility,facility1
+facility1,2,2018-04,6,29,4,#362687,98,Day Facility,facility1
+facility1,4,2018-05,8,29,4,#362687,120,Day Facility,facility1
+facility1,6,2018-06,10,29,4,#362687,80,Day Facility,facility1
+facility2,2,2018-01,0,33.5,6,#4938a1,60,Day Facility,facility2
+facility2,2,2018-02,2,33.5,6,#4938a1,80,Day Facility,facility2
+facility2,4,2018-03,4,33.5,6,#4938a1,70,Day Facility,facility2
+facility2,4,2018-04,6,33.5,6,#4938a1,90,Day Facility,facility2
+facility2,6,2018-05,8,33.5,6,#4938a1,88,Day Facility,facility2
+facility2,6,2018-06,10,33.5,6,#4938a1,89,Day Facility,facility2
+facility3,3,2018-01,0,39,6,#4f44b8,90,High Performance Facility,facility3
+facility3,3,2018-02,2,39,6,#4f44b8,70,High Performance Facility,facility3
+facility3,2,2018-03,4,39,6,#4f44b8,88,High Performance Facility,facility3
+facility3,2,2018-04,6,39,6,#4f44b8,80,High Performance Facility,facility3
+facility3,4,2018-05,8,39,6,#4f44b8,100,High Performance Facility,facility3
+facility3,6,2018-06,10,39,6,#4f44b8,120,High Performance Facility,facility3
+facility4,5,2018-01,0,43,6,#6459cf,90,High Performance Facility,facility4
+facility4,5,2018-02,2,43,6,#6459cf,90,High Performance Facility,facility4
+facility4,6,2018-03,4,43,6,#6459cf,117,High Performance Facility,facility4
+facility4,6,2018-04,6,43,6,#6459cf,116,High Performance Facility,facility4
+facility4,8,2018-05,8,43,6,#6459cf,128,High Performance Facility,facility4
+facility4,9,2018-06,10,43,6,#6459cf,90,High Performance Facility,facility4
+facility5,2,2018-01,0,47.5,6,#584fb3,80,High Performance Facility,facility5
+facility5,1,2018-02,2,47.5,6,#584fb3,90,High Performance Facility,facility5
+facility5,5,2018-03,4,47.5,6,#584fb3,120,High Performance Facility,facility5
+facility5,6,2018-04,6,47.5,6,#584fb3,117,High Performance Facility,facility5
+facility5,3,2018-05,8,47.5,6,#584fb3,80,High Performance Facility,facility5
+facility5,4,2018-06,10,47.5,6,#584fb3,100,High Performance Facility,facility5
+off site,1,2018-01,0,50,15,white,,,off site
+off site,1,2018-02,2,50,15,white,,,off site
+off site,1,2018-03,4,50,15,white,,,off site
+off site,1,2018-04,6,50,15,white,,,off site
+off site,1,2018-05,8,50,15,white,,,off site
+off site,1,2018-06,10,50,15,white,,,off site
+off site,1,2018-01,0,50,30,white,,,off site
+off site,1,2018-02,2,50,30,white,,,off site
+off site,1,2018-03,4,50,30,white,,,off site
+off site,1,2018-04,6,50,30,white,,,off site
+off site,1,2018-05,8,50,30,white,,,off site
+off site,1,2018-06,10,50,30,white,,,off site
+off site,1,2018-01,0,-4,15,white,,,off site
+off site,1,2018-02,2,-4,15,white,,,off site
+off site,1,2018-03,4,-4,15,white,,,off site
+off site,1,2018-04,6,-4,15,white,,,off site
+off site,1,2018-05,8,-4,15,white,,,off site
+off site,1,2018-06,10,-4,15,white,,,off site
+off site,1,2018-01,0,-4,35,white,,,off site
+off site,1,2018-02,2,-4,35,white,,,off site
+off site,1,2018-03,4,-4,35,white,,,off site
+off site,1,2018-04,6,-4,35,white,,,off site
+off site,1,2018-05,8,-4,35,white,,,off site
+off site,1,2018-06,10,-4,35,white,,,off site
